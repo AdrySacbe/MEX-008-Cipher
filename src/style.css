@@ -1,0 +1,26 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    color: white;
+    background-image: url("https://images4.alphacoders.com/325/32596.jpg")
+  }
+  
+  
+  .parrafo {
+    color:white;
+    font-size:30px;
+  
+  }
+  
+  h1{
+    color: white;
+  }
+  
+  .ocultar {
+    display:none;
+  }
+  .tamain {
+   height:200px;
+   width:500px;
+  }
+  
