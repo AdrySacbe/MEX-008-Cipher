@@ -1,19 +1,25 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 20px;
+    font-size: 30px;
     color: white;
-    background-image: url("https://images4.alphacoders.com/325/32596.jpg")
+    background-image: url("https://scontent-sjc3-1.cdninstagram.com/vp/7167b8c206f8ecadd73edd032f5ced17/5D7F9A5E/t51.2885-15/sh0.08/e35/c0.169.1349.1349/s640x640/60121753_140568563779199_4160184202643077371_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com")
   }
   
   
   .parrafo {
     color:white;
-    font-size:30px;
+    font-size:36px;
+    background:rgb(108, 110, 110);
+    border-radius: 80px;
+    opacity: .9
   
   }
   
   h1{
     color: white;
+    background:rgb(108, 110, 110);
+    border-radius: 80px;
+    opacity: .8;
   }
   
   .ocultar {
@@ -24,3 +30,11 @@ body {
    width:500px;
   }
   
+  #center2{
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    background:rgb(108, 110, 110);
+    border-radius: 80px;
+    opacity: .8;
+    font-size: 30px
+  }
