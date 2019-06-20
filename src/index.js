@@ -37,7 +37,7 @@ encriptar.addEventListener('click',()=>{
       output.value=output.value+String.fromCharCode(asci);
     }
   }*/
-  let salida=window.cipher.encode(cadena,offset);//llamo a la funcion encode y le doy como  parametro cadena y  offset y lo que retorna lo guardo en salida
+  let salida=window.cipher.encode(offset,cadena);//llamo a la funcion encode y le doy como  parametro cadena y  offset y lo que retorna lo guardo en salida
   output.value=salida;//Y al valor del output le asigno lo que tiene salida
 });
 desencriptar.addEventListener('click',()=>{
