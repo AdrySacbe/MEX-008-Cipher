@@ -9,15 +9,15 @@ body {
   .parrafo {
     color:white;
     font-size:36px;
-    background:rgb(108, 110, 110);
-    border-radius: 80px;
-    opacity: .9
+    background:rgb(22, 21, 21);
+    border-radius: 70px;
+    opacity: .8
   
   }
   
   h1{
     color: white;
-    background:rgb(108, 110, 110);
+    background:rgb(15, 15, 15);
     border-radius: 80px;
     opacity: .8;
   }
@@ -33,7 +33,7 @@ body {
   #center2{
     color: white;
     font-family: 'Josefin Sans', sans-serif;
-    background:rgb(108, 110, 110);
+    background:rgb(15, 15, 15);
     border-radius: 80px;
     opacity: .8;
     font-size: 30px
