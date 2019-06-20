@@ -38,3 +38,15 @@ body {
     opacity: .8;
     font-size: 30px
   }
+
+  .instrucciones{
+    background:rgb(15, 15, 15);
+    border-radius: 80px;
+    opacity: .8;
+  }
+
+  .ingreseOff{
+    background:rgb(15, 15, 15);
+    border-radius: 80px;
+    opacity: .8;
+  }
