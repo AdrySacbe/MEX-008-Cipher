@@ -1,3 +1,11 @@
+Comencé con la idea de hacer un app para mujeres que sufrieran algun tipo de acoso en el metro, pero haciendo feedback con mi squad me di cuenta que iba a ser muy complejo poner las lineas de metro, ubicacion y demas cosas.
+Lo termine cambiando por una aplicacion que ayudara a cualquier persona en general que sufriera violencia intrafamiliar,
+ya fuese un mujer a la cual su marido la maltrata y revisa su celular, el mensaje encriptado ayudaría mucho y no sospecharía, al enviar el mensaje se ayudaria a la victima en lo que necesite ya sea llamar a la policia, un refugio, proceder legalmente....etc
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
 # Cifrado César
 
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
