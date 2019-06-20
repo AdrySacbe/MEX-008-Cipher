@@ -1,3 +1,16 @@
+## Nombre del producto:
+Violence viewer
+
+## A quien va dirigido:
+A personas que sufren violencia intrafamiliar y necesitan un apoyo
+
+## Como funciona:
+La persona afectada escribe su situacion actual, encripta su mensaje y lo envia encriptado por whatsapp, la respuesta le llegara de igual forma encriptada, la persona debera desencriptar en la misma aplicacion.
+Ya sea el caso correspondiente se le enviara ayuda.
+
+
+
+
 Comencé con la idea de hacer un app para mujeres que sufrieran algun tipo de acoso en el metro, pero haciendo feedback con mi squad me di cuenta que iba a ser muy complejo poner las lineas de metro, ubicacion y demas cosas.
 Lo termine cambiando por una aplicacion que ayudara a cualquier persona en general que sufriera violencia intrafamiliar,
 ya fuese un mujer a la cual su marido la maltrata y revisa su celular, el mensaje encriptado ayudaría mucho y no sospecharía, al enviar el mensaje se ayudaria a la victima en lo que necesite ya sea llamar a la policia, un refugio, proceder legalmente....etc
